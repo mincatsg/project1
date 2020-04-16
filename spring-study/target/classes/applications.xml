@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+https://www.springframework.org/schema/beans/spring-beans.xsd">
+    <!-- 新增这里 -->
+    <!-- 创建一个字符串对象, 对象名为myName, 通过new String("小比特")生成对象 -->
+    <bean id="myName" class="java.lang.String">
+        <constructor-arg value="小比特" />
+    </bean>
+
+    <!-- 无参的构造方法创建对象 -->
+    <bean id="duck1"  class="frank.ioc.Duck">
+        <constructor-arg ref="myName" />
+<!--        <property  name= "name" ref="myName" />-->
+        <property name="age" value="20" />
+    </bean>
+
+    <bean id="duck2"  class="frank.ioc.Duck">
+        <constructor-arg  value="LadyGaga" />
+<!--        <property name="name" value="LadyGaga" />-->
+        <property name="age" value="30" />
+    </bean>
+
+    <bean id="duckShop" class="frank.ioc.DuckShop" scope="prototype">
+        <property name="name" value="比特烤鸭店" />
+        <property name="ducks" >
+        <list>
+            <ref bean="duck1" />
+            <ref bean="duck2" />
+        </list>
+        </property>
+    </bean>
+
+    <bean id="lifecycle" class="frank.ioc.Lifecycle" />
+</beans>
