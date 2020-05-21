@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9b12b519-f353-406c-b494-8cefa8df1c31" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UsgwTCkUDKIMNTM24tfgJH0muD" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Java\Mythread\src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Mythread" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyBlockingQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson4.MyBlockingQueue" />
+      <module name="Mythread" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lesson4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SequencePrint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson4.SequencePrint" />
+      <module name="Mythread" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lesson4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VolatileTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson3.VolatileTest" />
+      <module name="Mythread" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lesson3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="nnn" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nnn" />
+      <module name="Mythread" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.nnn" />
+        <item itemvalue="Application.SequencePrint" />
+        <item itemvalue="Application.MyBlockingQueue" />
+        <item itemvalue="Application.VolatileTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9b12b519-f353-406c-b494-8cefa8df1c31" name="Default Changelist" comment="" />
+      <created>1576150954211</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576150954211</updated>
+      <workItem from="1576150955583" duration="6964000" />
+      <workItem from="1576571504016" duration="36000" />
+      <workItem from="1576577277100" duration="7980000" />
+      <workItem from="1576589172014" duration="19000" />
+      <workItem from="1576839634213" duration="8621000" />
+      <workItem from="1576910053711" duration="712000" />
+      <workItem from="1577071203940" duration="6064000" />
+      <workItem from="1577081047078" duration="64000" />
+      <workItem from="1577358028538" duration="6515000" />
+      <workItem from="1578307782801" duration="755000" />
+      <workItem from="1578638618879" duration="3567000" />
+      <workItem from="1582526170530" duration="6640000" />
+      <workItem from="1582540159894" duration="23000" />
+      <workItem from="1583309935448" duration="615000" />
+      <workItem from="1583479080806" duration="88000" />
+      <workItem from="1584531321005" duration="2086000" />
+      <workItem from="1585211144201" duration="626000" />
+      <workItem from="1586082093979" duration="329000" />
+      <workItem from="1586172628377" duration="892000" />
+      <workItem from="1586174122223" duration="35000" />
+      <workItem from="1586513158941" duration="2013000" />
+      <workItem from="1586518301440" duration="151000" />
+      <workItem from="1586842732669" duration="1551000" />
+      <workItem from="1586937796050" duration="2193000" />
+      <workItem from="1587035389363" duration="37000" />
+      <workItem from="1587092267625" duration="342000" />
+      <workItem from="1587111189347" duration="73000" />
+      <workItem from="1587173960320" duration="1627000" />
+      <workItem from="1587966848114" duration="343000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
